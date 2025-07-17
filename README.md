@@ -1,28 +1,50 @@
 # Software-portfolio
-Welcome! I'm Parker Albright, a Computer Scuebce student with a passion for programming and software engineering. 
-This portfolio highlights the projects I've built to showcase my programming ability, problem-solving mindset, and growth as a developer.
+Welcome! I'm Parker Albright, a Computer Scuebce student with a deep passion for programming, problem solving, and creative software engineering. This portfolio showcases a selection of projects that i've worked on alone or with a team that reflects my technical growth, leadership, and drive to improve.
 
 ---
 
 ## About Me
 
 - CS Student @ University of Kansas
-- Interested in Software Engineering, Systems Design, and Game Development
+- Interests: Software Engineering, Systems Design, and Game Development
 - Languages: C++, C#, Python
-- Tools: Git, VSCode
-- Focus: OOP< Algorithms, and Practical Applications
+- Tools: Git, VSCode, Unity, Node.js
+- Core Strengths: Object-Oriented Programming, Algorithms, and Practical Applications
 
 ---
 
 ## Portfolio Projects
-Each project below demonstrates challenges I've overcome and projects I've dedicated my time to.
+Below are a few of the projects i've dedicated time to, each one representing challenges I've overcome and skills I've refined.
 
-### [Game Development FPS](https://github.com/Palbrig/NeonVoyageIndependent)
+--- 
+
+### [Neon Voyage: FPS Game Prototype](https://github.com/Palbrig/NeonVoyageIndependent)
 **Language:** C#
-The final capstone project for my associates in video game development degree. A first person shooter proof of concept with basic AI.
+A first-person shooter prototyped developed as the capstone project for my associate degree in video game development. The game features basic enemy AI, interactive enviorments, and OOP architecture throughout.
 
-- I lead the team throughout the 4 months of development
-- Illustrates basic AI and video game development
-- Strong OOP emphasis
+- Lead developer on a 4-month collaborative team
+- Designed and implemented AI behaviors and gameplay systems
+- Emphasized modular design and clean object-oriented structure
 
-### [AI Bot powered by LLM](https://github.com/1ProCrafters/HackKU-Mr.-J)
+### [Mr. J — LLM-Powered Minecraft Bot](https://github.com/1ProCrafters/HackKU-Mr.-J)
+**Language:** Javascript / Node.js
+Built in under 48 hours during HackKU, this project integrates an AI LLM into a minecraft server, enabling in-game bots to interpret and execute natural language commands, including correcting typos.
+
+- Rapid prototyping and cross-functional teamwork
+- Tackled unfamiliar tech stacks and frameworks
+- Demonstrated adaptability and real-world AI integration
+
+
+---
+## What's Next?
+- more advanced C++, C#, and Python projects
+- Low-level systems programming samples
+
+---
+
+## Contact Me
+- [albrightparker8@gmail.com]
+- [LinkedIn](https://www.linkedin.com/in/parker-a-6a0870105/)
+- [Github](https://github.com/Palbrig)
+
+Thank you for checking out my work! 
