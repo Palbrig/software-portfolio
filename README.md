@@ -43,7 +43,7 @@ Built in under 48 hours during HackKU, this project integrates an AI LLM into a 
 ---
 
 ## Contact Me
-- [albrightparker8@gmail.com]
+- [Email](albrightparker8@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/parker-a-6a0870105/)
 - [Github](https://github.com/Palbrig)
 
