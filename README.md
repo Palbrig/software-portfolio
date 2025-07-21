@@ -34,7 +34,14 @@ Built in under 48 hours during HackKU, this project integrates an AI LLM into a 
 - Tackled unfamiliar tech stacks and frameworks
 - Demonstrated adaptability and real-world AI integration
 
+### [2D Oribtal Physics Visualizer](https://github.com/Palbrig/2D-Orbital-Visualizer)
+**Language:** C#
+Solo project practicing unity and C# physics simulations.
 
+- Basic Unity 2d sprite manipulation
+- Physics simulation of bodies in motion in 2D space
+- Demonstrated adaptability and real-world integration
+- 
 ---
 ## What's Next?
 - more advanced C++, C#, and Python projects
