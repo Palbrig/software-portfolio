@@ -1,5 +1,5 @@
 # Software-portfolio
-Welcome! I'm Parker Albright, a Computer Scuebce student with a deep passion for programming, problem solving, and creative software engineering. This portfolio showcases a selection of projects that i've worked on alone or with a team that reflects my technical growth, leadership, and drive to improve.
+Welcome! I'm Parker Albright, a Computer Science student with a deep passion for programming, problem solving, and creative software engineering. This portfolio showcases a selection of projects that i've worked on alone or with a team that reflects my technical growth, leadership, and drive to improve.
 
 ---
 
